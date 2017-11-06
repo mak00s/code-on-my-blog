@@ -29,8 +29,8 @@ post_date: 2017-03-15 13:52:56
 - [サンクトガーレン](http://www.sanktgallenbrewery.com/) CMO
 
 ## 著書
-『[コンセプトダイアグラムでわかる［清水式］ビジュアルWeb解析](https://www.amazon.co.jp/dp/4048661426)』　(KADOKAWA）
-『[サイトサーチアナリティクス　アクセス解析とUXによるウェブサイトの分析・改善手法](https://www.amazon.co.jp/dp/4621086022)』　（丸善出版）
+- 『[コンセプトダイアグラムでわかる［清水式］ビジュアルWeb解析](https://www.amazon.co.jp/dp/4048661426)』　(KADOKAWA）
+- 『[サイトサーチアナリティクス　アクセス解析とUXによるウェブサイトの分析・改善手法](https://www.amazon.co.jp/dp/4621086022)』　（丸善出版）
 
 ## 価値観
 ### “役立つWebを実現したい”
