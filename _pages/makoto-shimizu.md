@@ -13,7 +13,7 @@ post_date: 2017-03-15 13:52:56
 ---
 # Profile
 ## 清水 誠 （しみず まこと）
-<p class="profile_img"><img class="alignnone size-medium wp-image-353" src="http://res.cloudinary.com/mak00s/image/upload/h_300,w_200/v1509665522/2016-08-1_xyz61i.jpg" alt="" width="200" height="300" /></p>
+<img class="alignnone size-medium wp-image-353" src="http://res.cloudinary.com/mak00s/image/upload/h_300,w_200/v1509665522/2016-08-1_xyz61i.jpg" alt="" width="200" height="300" />
 1995年国際基督教大学教育工学科修了。
 インハウスとコンサルタントの両方の立場で各種組織のデジタル化を推進し続けて22年。
 
@@ -26,11 +26,11 @@ post_date: 2017-03-15 13:52:56
 - 電通アイソバー CAO (Chief Analytics Officer)
 - パーソル プロセス＆テクノロジー（旧インテリジェンス ビジネスソリューションズ）戦略顧問
 - Adobe Analyticsユーザー会「eVar7」共同創始者
-- <a href="http://www.sanktgallenbrewery.com/" target="_blank" rel="noopener">サンクトガーレン</a> CMO
+- [サンクトガーレン](http://www.sanktgallenbrewery.com/) CMO
 
 ## 著書
-『<a href="https://www.amazon.co.jp/dp/4048661426" target="_blank" rel="noopener">コンセプトダイアグラムでわかる[清水式]ビジュアルWeb解析</a>』　(KADOKAWA）
-『<a href="https://www.amazon.co.jp/dp/4621086022" target="_blank" rel="noopener">サイトサーチアナリティクス　アクセス解析とUXによるウェブサイトの分析・改善手法</a>』　（丸善出版）
+『[コンセプトダイアグラムでわかる［清水式］ビジュアルWeb解析](https://www.amazon.co.jp/dp/4048661426)』　(KADOKAWA）
+『[サイトサーチアナリティクス　アクセス解析とUXによるウェブサイトの分析・改善手法](https://www.amazon.co.jp/dp/4621086022)』　（丸善出版）
 
 ## 価値観
 ### “役立つWebを実現したい”
@@ -50,5 +50,5 @@ post_date: 2017-03-15 13:52:56
 将来につながることが書けるようになるまで背水の陣で粘り、行数が増えなくなったら次へ進みます。
 
 ## ブログ
-<a href="/category/private-blog/">清水誠の仕事ノウハウから子育て日記やアメリカでの生活など、プライベートなブログはこちらから。</a>
-<p style="width: 70%;"><a href="/category/private-blog/"><img src="/wp-content/uploads/bnr/bnr_private.jpg" /></a></p>
+清水誠の仕事ノウハウから子育て日記やアメリカでの生活など。
+<a href="https://concept-diagram.com/category/blog/"><img src="https://res.cloudinary.com/mak00s/image/upload/c_scale,q_100,w_450/v1509963831/banner-blog_pdxzyu.png" class="alignnone wp-image-1023" alt="清水誠のブログ" width="450" height="128"></a>
