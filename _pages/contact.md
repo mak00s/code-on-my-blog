@@ -1,7 +1,7 @@
 ---
 ID: 141
 post_title: お問い合わせ
-author: MatsuoShizuka
+author: mak
 post_excerpt: ""
 layout: page
 permalink: https://concept-diagram.com/contact/
