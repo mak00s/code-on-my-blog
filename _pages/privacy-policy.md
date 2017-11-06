@@ -4,7 +4,8 @@ post_title: プライバシーポリシー
 author: MatsuoShizuka
 post_excerpt: ""
 layout: page
-permalink: 'https://concept-diagram.com/%e3%83%97%e3%83%a9%e3%82%a4%e3%83%90%e3%82%b7%e3%83%bc%e3%83%9d%e3%83%aa%e3%82%b7%e3%83%bc/'
+permalink: >
+  https://concept-diagram.com/privacy-policy/
 published: true
 post_date: 2017-03-21 18:50:05
 ---
