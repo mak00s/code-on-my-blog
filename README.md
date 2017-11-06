@@ -1,2 +1,1 @@
-# code-on-my-blog
-code snippets published on my personal blog
+blogの原稿です。WordPressと同期しています。

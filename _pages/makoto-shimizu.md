@@ -11,8 +11,7 @@ permalink: >
 published: true
 post_date: 2017-03-15 13:52:56
 ---
-# Profile
-## 清水 誠 （しみず まこと）
+# 清水 誠 （しみず まこと）とは
 <img class="alignnone size-medium wp-image-353" src="http://res.cloudinary.com/mak00s/image/upload/h_300,w_200/v1509665522/2016-08-1_xyz61i.jpg" alt="" width="200" height="300" />
 1995年国際基督教大学教育工学科修了。
 インハウスとコンサルタントの両方の立場で各種組織のデジタル化を推進し続けて22年。
@@ -23,6 +22,7 @@ post_date: 2017-03-15 13:52:56
 
 2011年に渡米し、Adobe Analyticsの企画・開発・品質改善と活用促進に取り組む。
 2013年Web人賞受賞。2014年に帰国して独立。企業のデータ活用サポートや執筆・講演に力を入れている。
+
 - 電通アイソバー CAO (Chief Analytics Officer)
 - パーソル プロセス＆テクノロジー（旧インテリジェンス ビジネスソリューションズ）戦略顧問
 - Adobe Analyticsユーザー会「eVar7」共同創始者
