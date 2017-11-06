@@ -11,8 +11,7 @@ permalink: >
 published: true
 post_date: 2017-03-15 13:52:56
 ---
-# Profile
-## 清水 誠 （しみず まこと）
+# 清水 誠 （しみず まこと）とは
 <img class="alignnone size-medium wp-image-353" src="http://res.cloudinary.com/mak00s/image/upload/h_300,w_200/v1509665522/2016-08-1_xyz61i.jpg" alt="" width="200" height="300" />
 1995年国際基督教大学教育工学科修了。
 インハウスとコンサルタントの両方の立場で各種組織のデジタル化を推進し続けて22年。
