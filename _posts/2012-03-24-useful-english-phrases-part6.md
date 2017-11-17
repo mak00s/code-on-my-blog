@@ -47,7 +47,7 @@ post_date: 2012-03-24 13:15:53
 
 USでは、飲み物をオファーされたり、お店でヘルプが必要か声をかけられることが多いです。うろたえずにサクッと即答できるように練習しておきましょう。
 <blockquote><strong>You can't do that.</strong></blockquote>
-<a title="iPhoneにAndroid by mak00s, on Flickr" href="http://www.flickr.com/photos/27261559@N06/6864010132/"><img src="http://farm8.staticflickr.com/7273/6864010132_e92dfd28e3_t.jpg" alt="iPhoneにAndroid" width="100" height="78" align="right" /></a>「<strong>それはダメだよ。</strong>」
+<a href="http://www.flickr.com/photos/27261559@N06/6864010132/"><img src="https://farm8.staticflickr.com/7273/6864010132_e92dfd28e3_t.jpg" alt="iPhoneにAndroid" width="100" height="78" align="right" /></a>「<strong>それはダメだよ。</strong>」
 
 iPhoneにAndroidのキャラのかざりをつけているのですが、それを見て「それは NGだよ。やってはイケナイ！」と笑いながら言われました。
 
