@@ -5,7 +5,7 @@ author: mak
 post_excerpt: ""
 layout: post
 permalink: >
-  https://concept-diagram.com/tag_design_and_ga_01/
+  https://concept-diagram.com/hash-for-campaign-tracking/
 published: true
 post_date: 2011-07-07 00:36:59
 ---
